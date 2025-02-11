@@ -46,6 +46,100 @@
    46  cat .gitignore
    47  ls
    48  history > Week_2/terminal_history.txt
+   49  history >> Week_2/terminal_history.txt 
+   50  nano Week_2/terminal_history.txt 
+   51  nano /Week_2/terminal_history.txt 
+   52  cat Week_2/terminal_history.txt 
+   53  clear
+   54  git status
+   55  git remote -v
+   56  git push origin main
+   57  git commit -m "Added New folder"
+   58  git add Week_2
+   59  git commit -m "Added New folder"
+   60  git status
+   61  git push
+   62  git push --set-upstream origin main
+   63  git push --set-upstream origin main
+   64  git push --set-upstream origin main
+   66  git remote remove origin
+   67  git remote -v
+   69  git remote -v
+   70  git status
+   71  git commit -m "Added folder"
+   72  git push -h
+   73  git push -u --set-upstream main
+   74  git push -u --set-upstream
+   75  git push -set--upstream origin main
+   76  git push --set-upstream origin main
+   77  git remote -v
+   78  git branch -M main
+   79  git push -u origin main
+   80  git push origin main
+   81  git remote add origin https://github.com/Migmabe/ros-exercises.git
+   82  git remote set-url origin https://github.com/Migmabe/ros-exercises.git
+   83  git remote -v
+   84  git push origin main
+   85  history >> Week_2/terminal_history.txt 
+   86  clear
+   87  git status
+   88  git commit -m "Modification"
+   89  clear
+   90  git add Week_2/terminal_history.txt 
+   91  git statis
+   92  git status
+   93  git push origin main
+   94  git remote add origin https://github.com/Migmabe/ros-exercises.git
+   95  git remote set-url origin https://github.com/Migmabe/ros-exercises.git
+   96  git remote -v
+   97  git push origin main
+   98  git status
+   99  git commit -m "Modification"
+  100  git push origin main
+  101  git commit -m "Modification"
+  102  git add Week_2/terminal_history.txt 
+  103  git commit -m "Modification"
+  104  git push origin main
+  105  cat Week_2/terminal_history.txt 
+  106  git reset --hard HEAD~1
+  107  git reset --hard HEAD~1
+  108  git status
+  109  history >> Week_2/terminal_history.txt 
+  110  git status
+  111  git commit -m "Mods"
+  112  git add Week_2/terminal_history.txt 
+  113  git status
+  114  git commit -m "Mods"
+  115  git push origin main
+  116  git status
+  117  git commit -m "Mods"
+  118  git add Week_2/terminal_history.txt 
+  119  git commit -m "Mods"
+  120  git push origin main
+  121  git log origin/main..HEAD --oneline
+  122  git log --oneline
+  123  git rebase -i 38a22b9~1
+  124  git status
+  125  ls
+  126  cd Documents
+  127  ls
+  128  cd ..
+  129  cd Desktop/Exercises
+  130  ls
+  131  git status
+  132  git rebase --edit-todo
+  133  clear
+  134  git status
+  135  git rebase --continue
+  136  clear
+  137  git log --oneline
+  138  git reset --hard HEAD~2
+  139  clear
+  140  histor
+  141  history
+  142  history >>
+  143  history
+  144  history > Week_2/terminal_history.txt 
     1  ls 
     2  pwd
     3  Documents
@@ -95,3 +189,97 @@
    47  ls
    48  history > Week_2/terminal_history.txt
    49  history >> Week_2/terminal_history.txt 
+   50  nano Week_2/terminal_history.txt 
+   51  nano /Week_2/terminal_history.txt 
+   52  cat Week_2/terminal_history.txt 
+   53  clear
+   54  git status
+   55  git remote -v
+   56  git push origin main
+   57  git commit -m "Added New folder"
+   58  git add Week_2
+   59  git commit -m "Added New folder"
+   60  git status
+   61  git push
+   62  git push --set-upstream origin main
+   63  git push --set-upstream origin main
+   64  git push --set-upstream origin main
+   66  git remote remove origin
+   67  git remote -v
+   69  git remote -v
+   70  git status
+   71  git commit -m "Added folder"
+   72  git push -h
+   73  git push -u --set-upstream main
+   74  git push -u --set-upstream
+   75  git push -set--upstream origin main
+   76  git push --set-upstream origin main
+   77  git remote -v
+   78  git branch -M main
+   79  git push -u origin main
+   80  git push origin main
+   81  git remote add origin https://github.com/Migmabe/ros-exercises.git
+   82  git remote set-url origin https://github.com/Migmabe/ros-exercises.git
+   83  git remote -v
+   84  git push origin main
+   85  history >> Week_2/terminal_history.txt 
+   86  clear
+   87  git status
+   88  git commit -m "Modification"
+   89  clear
+   90  git add Week_2/terminal_history.txt 
+   91  git statis
+   92  git status
+   93  git push origin main
+   94  git remote add origin https://github.com/Migmabe/ros-exercises.git
+   95  git remote set-url origin https://github.com/Migmabe/ros-exercises.git
+   96  git remote -v
+   97  git push origin main
+   98  git status
+   99  git commit -m "Modification"
+  100  git push origin main
+  101  git commit -m "Modification"
+  102  git add Week_2/terminal_history.txt 
+  103  git commit -m "Modification"
+  104  git push origin main
+  105  cat Week_2/terminal_history.txt 
+  106  git reset --hard HEAD~1
+  107  git reset --hard HEAD~1
+  108  git status
+  109  history >> Week_2/terminal_history.txt 
+  110  git status
+  111  git commit -m "Mods"
+  112  git add Week_2/terminal_history.txt 
+  113  git status
+  114  git commit -m "Mods"
+  115  git push origin main
+  116  git status
+  117  git commit -m "Mods"
+  118  git add Week_2/terminal_history.txt 
+  119  git commit -m "Mods"
+  120  git push origin main
+  121  git log origin/main..HEAD --oneline
+  122  git log --oneline
+  123  git rebase -i 38a22b9~1
+  124  git status
+  125  ls
+  126  cd Documents
+  127  ls
+  128  cd ..
+  129  cd Desktop/Exercises
+  130  ls
+  131  git status
+  132  git rebase --edit-todo
+  133  clear
+  134  git status
+  135  git rebase --continue
+  136  clear
+  137  git log --oneline
+  138  git reset --hard HEAD~2
+  139  clear
+  140  histor
+  141  history
+  142  history >>
+  143  history
+  144  history > Week_2/terminal_history.txt 
+  145  history >> Week_2/terminal_history.txt 
